@@ -1,0 +1,20 @@
+{
+  "name": "@jwalsh/dependency-repro",
+  "version": "1.0.0",
+  "description": "Test harness for dependency lookup in Yarn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/probable-dollop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh/probable-dollop/issues"
+  },
+  "homepage": "https://github.com/jwalsh/probable-dollop#readme"
+}
