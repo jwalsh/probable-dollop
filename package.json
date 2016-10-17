@@ -4,7 +4,7 @@
   "description": "Test harness for dependency lookup in Yarn",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
     "test": "node test.js"
   },
   "repository": {
