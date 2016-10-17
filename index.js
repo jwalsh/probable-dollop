@@ -1,1 +1,1 @@
-module.exports.says = function() { return 'g'; };
+module.exports.says = function() { return 'h'; };
