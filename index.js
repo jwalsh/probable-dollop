@@ -1,1 +1,1 @@
-module.exports.says = function() { return 'p'; };
+module.exports.says = function() { return 'master'; };
